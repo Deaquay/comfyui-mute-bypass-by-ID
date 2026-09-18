@@ -1,5 +1,5 @@
 # comfyui-mute-bypass-by-ID
-⭐ If these nodes save you time, please give them a star, a star helps other ComfyUI users find them.
+⭐ If these nodes save you time, please give them a star to show your appreciation, a star also helps other ComfyUI users find them.
 
 [![ComfyUI Registry](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.comfy.org%2Fnodes%2Fcomfyui-mute-bypass-by-id&query=%24.latest_version.version&label=ComfyUI%20Registry&prefix=v&color=1a56db)](https://registry.comfy.org/nodes/comfyui-mute-bypass-by-id)
 [![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.comfy.org%2Fnodes%2Fcomfyui-mute-bypass-by-id&query=%24.downloads&label=downloads&color=2fbc06)](https://registry.comfy.org/nodes/comfyui-mute-bypass-by-id)
